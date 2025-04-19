@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-```
-I'm Meraj Sharif
+**I'm Meraj Sharif**
 
+<p align="justify">
 Frontend focused Web Developer from Bangladesh.
-For last 7 years, I have worked in various sectors, Specially in Textile.
-But as a CSE Graduate, Now I'm trying to develop my career in web development.
-For that reason, I have resigned from my last job. Self-learning for a couple of years now.
-
-Highly motivated and enthusiastic with a strong foundation in front-end web development and a passion for creating user-friendly and visually appealing websites. Proficient in HTML, CSS, JavaScript, and Skilled in React.
+For last 7 years, I have worked in various sectors, Specially in Textile. But as a CSE Graduate, Now I'm trying to develop my career in web development.
+For that reason, I have resigned from my last job. Self-learning for a couple of years now. Highly motivated and enthusiastic with a strong foundation in front-end web development and a passion for creating user-friendly and visually appealing websites. Proficient in HTML, CSS, JavaScript, and Skilled in React.
 Eager to learn and contribute to a dynamic team, Seeking an entry-level front-end developer position where I can apply and expand my skills.
-```
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
