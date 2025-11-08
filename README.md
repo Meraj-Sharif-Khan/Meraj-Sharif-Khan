@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-**I'm Meraj Sharif**
+**My Name is Meraj Sharif**
 
 <p align="justify">
-Frontend focused Web Developer from Bangladesh.
-For last 7 years, I have worked in various sectors, Specially in Textile. But as a CSE Graduate, Now I'm trying to develop my career in web development.
-For that reason, I have resigned from my last job. Self-learning for a couple of years now. Highly motivated and enthusiastic with a strong foundation in front-end web development and a passion for creating user-friendly and visually appealing websites. Proficient in HTML, CSS, JavaScript, and Skilled in React.
-Eager to learn and contribute to a dynamic team, Seeking an entry-level front-end developer position where I can apply and expand my skills.
+I'm a Frontend Web Developer Based in Gazipur, Dhaka, Bangladesh. 
+For 7 years, I have worked in various sectors, Specially in Textile. But as a CSE Graduate, I have switched my career into Tech and joined “Fly Far Tech” as a frontend developer.
+
+I'm Highly motivated and enthusiastic, with a strong foundation in front-end web development and a passion for creating user-friendly and visually appealing websites.
+Proficient in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui, Material UI, Redux, Redux Toolkit (RTK), RTK Query, Context API, GSAP, Webpack, Vite, Git and GitHub.
+
+Eager to learn and contribute to a dynamic team, seeking a front-end developer position where I can apply and expand my skills.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
